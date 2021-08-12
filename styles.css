@@ -1,1 +1,80 @@
-/* Write your CSS here! */
+body {
+    background-color: black;
+    color: whitesmoke;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding: auto;
+}
+
+p {
+    position:relative;
+    text-align: left;
+    width: 500px;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+h2 {
+    border-style: outset;
+    border-color: whitesmoke;
+    width: 300px;
+    margin: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+h3 {
+    border-style: outset;
+    border-color: whitesmoke;
+    width: 350px;
+    margin: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+h4 {
+    border-style: outset;
+    border-color: whitesmoke;
+    width: 350px;
+    margin: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+h5 {
+    border-style: outset;
+    border-color: whitesmoke;
+    width: 350px;
+    margin: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+h6 {
+    border-style: outset;
+    border-color: whitesmoke;
+    width: 350px;
+    margin: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+figcaption {
+    position:relative;
+    text-align: right;
+    padding-left: 100px;
+    padding-bottom: 750px;
+    width: 300px;
+}
+
+img{
+    text-align: left;
+}
+
+figure {
+    display: flex;
+    align-items: left;
+}
