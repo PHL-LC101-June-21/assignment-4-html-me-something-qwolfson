@@ -9,7 +9,10 @@ body {
 }
 
 p {
+    position:relative;
+    text-align: left;
     width: 500px;
+    padding-left: 40px;
 }
 
 h2 {
@@ -59,9 +62,17 @@ h6 {
 
 figcaption {
     position:relative;
-    text-align: left;
+    text-align: right;
+    padding-left: 100px;
+    padding-bottom: 750px;
+    width: 300px;
 }
 
 img{
     text-align: left;
+}
+
+figure {
+    display: flex;
+    align-items: left;
 }
