@@ -13,6 +13,8 @@ p {
     text-align: left;
     width: 500px;
     padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 h2 {
